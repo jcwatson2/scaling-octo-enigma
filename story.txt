@@ -2,6 +2,7 @@ Once upon a time there was a guy named Randy. Randy lived in a small village cal
 Randy now have 50% off coupon on KFC. Randy no more hungry. Randy became fat.
 Randy was not a big guy. In fact, he was a rather compact fellow. This however did not reflect the size of his appetite in the slightest; he could wolf down a meal in no time flat. This big appetite of his often bothered his neighbors in Repoville because the town's situation did not permit such a laissez-faire attitude towards their meals. Yes!
   One day randy made a big discovery. He soon realized the best way to eliminate bug is to never write any code. That is 100% effective way if you want to be a programmer who never have any bug in their bug.
+<<<<<<< HEAD
 This is the end of the story......but not yet!
 
 Randy decided the best way to elimate his hunger is to workd hard. Hence, Randy decided to attend school and attain proper education in order to see which path brings his passion. In the long term, once he lands a good job, he can feed himself and his entire village! Let's see what Randy decides and whether he can follow his passion!
@@ -12,3 +13,8 @@ Randy decided the best way to elimate his hunger is to workd hard. Hence, Randy 
 
 
 
+=======
+This is the end of the story.
+This is the beginning of the sequel.
+Randy is now a hip hop dance artist in San Diego, CA.
+>>>>>>> 73683c230faa3ef90a7762ba62d1815dccab46bd
